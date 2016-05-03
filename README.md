@@ -5,6 +5,7 @@ It is a pagecontrol .
 
 ```obj-c
 _myPageControl=[[MyPageControl alloc]init:pageNum currentPage:index];
+```
 
 ## Thanks for Masonry
 
